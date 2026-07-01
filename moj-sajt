@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="google-site-verification" content="xOMStarFDjL4Tu1Ulu3q055EGan_JlE2HBPZRrsjRpI" />
+    <title>Moj sajt</title>
+</head>
+<body>
+
+<h1>Zdravo!</h1>
+<p>Ovo je moj prvi sajt.</p>
+
+<button onclick="alert('Bravo! Kliknuo si dugme 😄')">
+Klikni me
+</button>
+
+</body>
+</html>
